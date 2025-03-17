@@ -1,4 +1,5 @@
 [submodule "nvim/.config/nvim"]
-	path = nvim/.config/nvim
-	url = git@github.com:AndreiKhon/neovim-cpp.git
-	branch = main
+  path = nvim/.config/nvim
+  url = git@github.com:AndreiKhon/neovim-cpp.git
+  branch = main
+  update = rebase
